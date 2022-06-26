@@ -30,6 +30,10 @@ App将主要用于完善协会日常的管理， 加强人员之间的互动和�
 * DCBEV App -> DD, PengCC，？
 * WordPress -> Eason，？
 
+### Demos
+* DCBEV BE + FE -> https://agile-inlet-73564.herokuapp.com
+* DCBEV FE -> @PengCC
+
 ## 技术工具一览
 （不感兴趣的同学可以完全忽视。 有些不知道怎么翻译好，所以就干脆不翻了😉）
 
